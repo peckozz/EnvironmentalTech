@@ -277,6 +277,7 @@ tile.environmentaltech.lens_colored.black.name=Black Lens
 tile.environmentaltech.modifier_core.name=Modifier Core
 tile.environmentaltech.modifier_speed_1.name=Speed Modifier
 tile.environmentaltech.modifier_piezo_1.name=Piezo Modifier
+tile.environmentaltech.modifier_efficiency_1.name=Efficiency Modifier
 tile.environmentaltech.modifier_fortune_1.name=Fortune Modifier
 tile.environmentaltech.modifier_silk_touch.name=Silk Touch Modifier
 tile.environmentaltech.modifier_accuracy_1.name=Accuracy Modifier
@@ -289,6 +290,7 @@ tile.environmentaltech.modifier_regen.name=Regen Modifier
 tile.environmentaltech.modifier_saturation.name=Saturation Modifier
 tile.environmentaltech.modifier_resistance.name=Resistance Modifier
 tile.environmentaltech.modifier_jump_boost.name=Jump Boost Modifier
+tile.environmentaltech.modifier_fire_resistance.name=Fire Resistance Modifier
 
 tile.environmentaltech.launcher_1.name=Launcher
 tile.environmentaltech.chunk_loader_basic.name=Basic Chunk Loader [WIP]

@@ -1,0 +1,341 @@
+itemgroup.environmentaltech.et_legacy=ʎɔɐᵷǝꞀ ɥɔǝ⟘ ꞁɐʇuǝɯuoɹᴉʌuƎ
+itemGroup.environmentaltech.et_legacy=ʎɔɐᵷǝꞀ ɥɔǝ⟘ ꞁɐʇuǝɯuoɹᴉʌuƎ
+
+itemgroup.environmentaltech.et_resources=sǝɔɹnosǝᴚ ɥɔǝ⟘ ꞁɐʇuǝɯuoɹᴉʌuƎ
+itemGroup.environmentaltech.et_resources=sǝɔɹnosǝᴚ ɥɔǝ⟘ ꞁɐʇuǝɯuoɹᴉʌuƎ
+
+itemgroup.environmentaltech.et_controllers=sɹǝꞁꞁoɹʇuoƆ ɥɔǝ⟘ ꞁɐʇuǝɯuoɹᴉʌuƎ
+itemGroup.environmentaltech.et_controllers=sɹǝꞁꞁoɹʇuoƆ ɥɔǝ⟘ ꞁɐʇuǝɯuoɹᴉʌuƎ
+
+itemgroup.environmentaltech.et_multiblock_components=sʇuǝuodɯoƆ ɥɔǝ⟘ ꞁɐʇuǝɯuoɹᴉʌuƎ
+itemGroup.environmentaltech.et_multiblock_components=sʇuǝuodɯoƆ ɥɔǝ⟘ ꞁɐʇuǝɯuoɹᴉʌuƎ
+
+itemgroup.environmentaltech.et_other=ɹǝɥʇO ɥɔǝ⟘ ꞁɐʇuǝɯuoɹᴉʌuƎ
+itemGroup.environmentaltech.et_other=ɹǝɥʇO ɥɔǝ⟘ ꞁɐʇuǝɯuoɹᴉʌuƎ
+
+
+
+tile.environmentaltech.litherite.normal.name=ǝʇᴉɹǝɥʇᴉꞀ
+tile.environmentaltech:litherite.normal.name=ǝʇᴉɹǝɥʇᴉꞀ
+tile.environmentaltech.litherite.paver.name=ɹǝʌɐԀ ǝʇᴉɹǝɥʇᴉꞀ
+tile.environmentaltech.litherite.bricks.name=sʞɔᴉɹᗺ ǝʇᴉɹǝɥʇᴉꞀ
+tile.environmentaltech.litherite.tiles.name=sǝꞁᴉ⟘ ǝʇᴉɹǝɥʇᴉꞀ
+tile.environmentaltech.litherite_stairs.name=sɹᴉɐʇS ǝʇᴉɹǝɥʇᴉꞀ
+tile.environmentaltech.litherite_brick_stairs.name=sɹᴉɐʇS ʞɔᴉɹᗺ ǝʇᴉɹǝɥʇᴉꞀ
+tile.environmentaltech.litherite_slab.name=qɐꞁS ǝʇᴉɹǝɥʇᴉꞀ
+tile.environmentaltech.litherite_paver_slab.name=qɐꞁS ɹǝʌɐԀ ǝʇᴉɹǝɥʇᴉꞀ
+tile.environmentaltech.litherite_brick_slab.name=qɐꞁS ʞɔᴉɹᗺ ǝʇᴉɹǝɥʇᴉꞀ
+
+
+tile.environmentaltech.erodium.normal.name=ɯnᴉpoɹƎ
+tile.environmentaltech.erodium.paver.name=ɹǝʌɐԀ ɯnᴉpoɹƎ
+tile.environmentaltech.erodium.bricks.name=sʞɔᴉɹᗺ ɯnᴉpoɹƎ
+tile.environmentaltech.erodium.tiles.name=sǝꞁᴉ⟘ ɯnᴉpoɹƎ
+tile.environmentaltech.erodium_stairs.name=sɹᴉɐʇS ɯnᴉpoɹƎ
+tile.environmentaltech.erodium_brick_stairs.name=sɹᴉɐʇS ʞɔᴉɹᗺ ɯnᴉpoɹƎ
+tile.environmentaltech.erodium_slab.name=qɐꞁS ɯnᴉpoɹƎ
+tile.environmentaltech.erodium_paver_slab.name=qɐꞁS ɹǝʌɐԀ ɯnᴉpoɹƎ
+tile.environmentaltech.erodium_brick_slab.name=qɐꞁS ʞɔᴉɹᗺ ɯnᴉpoɹƎ
+
+tile.environmentaltech.kyronite.normal.name=ǝʇᴉuoɹʎʞ
+tile.environmentaltech.kyronite.paver.name=ɹǝʌɐԀ ǝʇᴉuoɹʎʞ
+tile.environmentaltech.kyronite.bricks.name=sʞɔᴉɹᗺ ǝʇᴉuoɹʎʞ
+tile.environmentaltech.kyronite.tiles.name=sǝꞁᴉ⟘ ǝʇᴉuoɹʎʞ
+tile.environmentaltech.kyronite_stairs.name=sɹᴉɐʇS ǝʇᴉuoɹʎʞ
+tile.environmentaltech.kyronite_brick_stairs.name=sɹᴉɐʇS ʞɔᴉɹᗺ ǝʇᴉuoɹʎʞ
+tile.environmentaltech.kyronite_slab.name=qɐꞁS ǝʇᴉuoɹʎʞ
+tile.environmentaltech.kyronite_paver_slab.name=qɐꞁS ɹǝʌɐԀ ǝʇᴉuoɹʎʞ
+tile.environmentaltech.kyronite_brick_slab.name=qɐꞁS ʞɔᴉɹᗺ ǝʇᴉuoɹʎʞ
+
+tile.environmentaltech.pladium.normal.name=ɯnᴉpɐꞁԀ
+tile.environmentaltech.pladium.paver.name=ɹǝʌɐԀ ɯnᴉpɐꞁԀ
+tile.environmentaltech.pladium.bricks.name=sʞɔᴉɹᗺ ɯnᴉpɐꞁԀ
+tile.environmentaltech.pladium.tiles.name=sǝꞁᴉ⟘ ɯnᴉpɐꞁԀ
+tile.environmentaltech.pladium_stairs.name=sɹᴉɐʇS ɯnᴉpɐꞁԀ
+tile.environmentaltech.pladium_brick_stairs.name=sɹᴉɐʇS ʞɔᴉɹᗺ ɯnᴉpɐꞁԀ
+tile.environmentaltech.pladium_slab.name=qɐꞁS ɯnᴉpɐꞁԀ
+tile.environmentaltech.pladium_paver_slab.name=qɐꞁS ɹǝʌɐԀ ɯnᴉpɐꞁԀ
+tile.environmentaltech.pladium_brick_slab.name=qɐꞁS ʞɔᴉɹᗺ ɯnᴉpɐꞁԀ
+
+tile.environmentaltech.ionite.normal.name=ǝʇᴉuoI
+tile.environmentaltech.ionite.paver.name=ɹǝʌɐԀ ǝʇᴉuoI
+tile.environmentaltech.ionite.bricks.name=sʞɔᴉɹᗺ ǝʇᴉuoI
+tile.environmentaltech.ionite.tiles.name=sǝꞁᴉ⟘ ǝʇᴉuoI
+tile.environmentaltech.ionite_stairs.name=sɹᴉɐʇS ǝʇᴉuoI
+tile.environmentaltech.ionite_brick_stairs.name=sɹᴉɐʇS ʞɔᴉɹᗺ ǝʇᴉuoI
+tile.environmentaltech.ionite_slab.name=qɐꞁS ǝʇᴉuoI
+tile.environmentaltech.ionite_paver_slab.name=qɐꞁS ɹǝʌɐԀ ǝʇᴉuoI
+tile.environmentaltech.ionite_brick_slab.name=qɐꞁS ʞɔᴉɹᗺ ǝʇᴉuoI
+
+tile.environmentaltech.aethium.normal.name=ɯnᴉɥʇǝⱯ
+tile.environmentaltech.aethium.paver.name=ɹǝʌɐԀ ɯnᴉɥʇǝⱯ
+tile.environmentaltech.aethium.bricks.name=sʞɔᴉɹᗺ ɯnᴉɥʇǝⱯ
+tile.environmentaltech.aethium.tiles.name=sǝꞁᴉ⟘ ɯnᴉɥʇǝⱯ
+tile.environmentaltech.aethium_stairs.name=sɹᴉɐʇS ɯnᴉɥʇǝⱯ
+tile.environmentaltech.aethium_brick_stairs.name=sɹᴉɐʇS ʞɔᴉɹᗺ ɯnᴉɥʇǝⱯ
+tile.environmentaltech.aethium_slab.name=qɐꞁS ɯnᴉɥʇǝⱯ
+tile.environmentaltech.aethium_paver_slab.name=qɐꞁS ɹǝʌɐԀ ɯnᴉɥʇǝⱯ
+tile.environmentaltech.aethium_brick_slab.name=qɐꞁS ʞɔᴉɹᗺ ɯnᴉɥʇǝⱯ
+
+tile.environmentaltech.mica.name=ɐɔᴉW
+tile.environmentaltech.interconnect.name=ʇɔǝuuoɔɹǝʇuI
+
+tile.environmentaltech.structure_frame_1.name=⥝ ɹǝᴉ⟘ ǝɯɐɹℲ ǝɹnʇɔnɹʇS
+tile.environmentaltech.structure_frame_2.name=ᘔ ɹǝᴉ⟘ ǝɯɐɹℲ ǝɹnʇɔnɹʇS
+tile.environmentaltech.structure_frame_3.name=Ɛ ɹǝᴉ⟘ ǝɯɐɹℲ ǝɹnʇɔnɹʇS
+tile.environmentaltech.structure_frame_4.name=ᔭ ɹǝᴉ⟘ ǝɯɐɹℲ ǝɹnʇɔnɹʇS
+tile.environmentaltech.structure_frame_5.name=5 ɹǝᴉ⟘ ǝɯɐɹℲ ǝɹnʇɔnɹʇS
+tile.environmentaltech.structure_frame_6.name=9 ɹǝᴉ⟘ ǝɯɐɹℲ ǝɹnʇɔnɹʇS
+
+tile.environmentaltech.structure_panel.name=ꞁǝuɐԀ ǝɹnʇɔnɹʇS
+tile.environmentaltech.structure_panel_clear.name=ꞁǝuɐԀ ǝɹnʇɔnɹʇS ɹɐǝꞁƆ
+
+tile.environmentaltech.solar_cell_litherite.name=ꞁǝuɐԀ ɹɐꞁoS ǝʇᴉɹǝɥʇᴉꞀ
+tile.environmentaltech.solar_cell_erodium.name=ꞁǝuɐԀ ɹɐꞁoS ɯnᴉpoɹƎ
+tile.environmentaltech.solar_cell_kyronite.name=ꞁǝuɐԀ ɹɐꞁoS ǝʇᴉuoɹʎʞ
+tile.environmentaltech.solar_cell_pladium.name=ꞁǝuɐԀ ɹɐꞁoS ɯnᴉpɐꞁԀ
+tile.environmentaltech.solar_cell_ionite.name=ꞁǝuɐԀ ɹɐꞁoS ǝʇᴉuoI
+tile.environmentaltech.solar_cell_aethium.name=ꞁǝuɐԀ ɹɐꞁoS ɯnᴉɥʇǝⱯ
+
+tile.environmentaltech.solar_cont_1.name=⥝ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ʎɐɹɹⱯ ɹɐꞁoS
+tile.environmentaltech.solar_cont_2.name=ᘔ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ʎɐɹɹⱯ ɹɐꞁoS
+tile.environmentaltech.solar_cont_3.name=Ɛ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ʎɐɹɹⱯ ɹɐꞁoS
+tile.environmentaltech.solar_cont_4.name=ᔭ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ʎɐɹɹⱯ ɹɐꞁoS
+tile.environmentaltech.solar_cont_5.name=5 ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ʎɐɹɹⱯ ɹɐꞁoS
+tile.environmentaltech.solar_cont_6.name=9 ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ʎɐɹɹⱯ ɹɐꞁoS
+
+tile.environmentaltech.void_ore_miner_cont_1.name=⥝ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ǝɹO pᴉoᴧ
+tile.environmentaltech.void_ore_miner_cont_2.name=ᘔ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ǝɹO pᴉoᴧ
+tile.environmentaltech.void_ore_miner_cont_3.name=Ɛ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ǝɹO pᴉoᴧ
+tile.environmentaltech.void_ore_miner_cont_4.name=ᔭ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ǝɹO pᴉoᴧ
+tile.environmentaltech.void_ore_miner_cont_5.name=5 ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ǝɹO pᴉoᴧ
+tile.environmentaltech.void_ore_miner_cont_6.name=9 ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ǝɹO pᴉoᴧ
+gui.environmentaltech.void_ore_miner_cont_1.title=⥝ ɹǝᴉ⟘ ɹǝuᴉW ǝɹO pᴉoᴧ
+gui.environmentaltech.void_ore_miner_cont_2.title=ᘔ ɹǝᴉ⟘ ɹǝuᴉW ǝɹO pᴉoᴧ
+gui.environmentaltech.void_ore_miner_cont_3.title=Ɛ ɹǝᴉ⟘ ɹǝuᴉW ǝɹO pᴉoᴧ
+gui.environmentaltech.void_ore_miner_cont_4.title=ᔭ ɹǝᴉ⟘ ɹǝuᴉW ǝɹO pᴉoᴧ
+gui.environmentaltech.void_ore_miner_cont_5.title=5 ɹǝᴉ⟘ ɹǝuᴉW ǝɹO pᴉoᴧ
+gui.environmentaltech.void_ore_miner_cont_6.title=9 ɹǝᴉ⟘ ɹǝuᴉW ǝɹO pᴉoᴧ
+
+tile.environmentaltech.void_res_miner_cont_1.name=⥝ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ǝɔɹnosǝᴚ pᴉoᴧ
+tile.environmentaltech.void_res_miner_cont_2.name=ᘔ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ǝɔɹnosǝᴚ pᴉoᴧ
+tile.environmentaltech.void_res_miner_cont_3.name=Ɛ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ǝɔɹnosǝᴚ pᴉoᴧ
+tile.environmentaltech.void_res_miner_cont_4.name=ᔭ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ǝɔɹnosǝᴚ pᴉoᴧ
+tile.environmentaltech.void_res_miner_cont_5.name=5 ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ǝɔɹnosǝᴚ pᴉoᴧ
+tile.environmentaltech.void_res_miner_cont_6.name=9 ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ǝɔɹnosǝᴚ pᴉoᴧ
+gui.environmentaltech.void_res_miner_cont_1.title=⥝ ɹǝᴉ⟘ ɹǝuᴉW ǝɹO pᴉoᴧ
+gui.environmentaltech.void_res_miner_cont_2.title=ᘔ ɹǝᴉ⟘ ɹǝuᴉW ǝɹO pᴉoᴧ
+gui.environmentaltech.void_res_miner_cont_3.title=Ɛ ɹǝᴉ⟘ ɹǝuᴉW ǝɹO pᴉoᴧ
+gui.environmentaltech.void_res_miner_cont_4.title=ᔭ ɹǝᴉ⟘ ɹǝuᴉW ǝɹO pᴉoᴧ
+gui.environmentaltech.void_res_miner_cont_5.title=5 ɹǝᴉ⟘ ɹǝuᴉW ǝɹO pᴉoᴧ
+gui.environmentaltech.void_res_miner_cont_6.title=9 ɹǝᴉ⟘ ɹǝuᴉW ǝɹO pᴉoᴧ
+
+tile.environmentaltech.void_botanic_miner_cont_1.name=⥝ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ɔᴉuɐʇoᗺ pᴉoᴧ
+tile.environmentaltech.void_botanic_miner_cont_2.name=ᘔ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ɔᴉuɐʇoᗺ pᴉoᴧ
+tile.environmentaltech.void_botanic_miner_cont_3.name=Ɛ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ɔᴉuɐʇoᗺ pᴉoᴧ
+tile.environmentaltech.void_botanic_miner_cont_4.name=ᔭ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ɔᴉuɐʇoᗺ pᴉoᴧ
+tile.environmentaltech.void_botanic_miner_cont_5.name=5 ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ɔᴉuɐʇoᗺ pᴉoᴧ
+tile.environmentaltech.void_botanic_miner_cont_6.name=9 ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ ɹǝuᴉW ɔᴉuɐʇoᗺ pᴉoᴧ
+gui.environmentaltech.void_botanic_miner_cont_1.title=⥝ ɹǝᴉ⟘ ɹǝuᴉW ɔᴉuɐʇoᗺ pᴉoᴧ
+gui.environmentaltech.void_botanic_miner_cont_2.title=ᘔ ɹǝᴉ⟘ ɹǝuᴉW ɔᴉuɐʇoᗺ pᴉoᴧ
+gui.environmentaltech.void_botanic_miner_cont_3.title=Ɛ ɹǝᴉ⟘ ɹǝuᴉW ɔᴉuɐʇoᗺ pᴉoᴧ
+gui.environmentaltech.void_botanic_miner_cont_4.title=ᔭ ɹǝᴉ⟘ ɹǝuᴉW ɔᴉuɐʇoᗺ pᴉoᴧ
+gui.environmentaltech.void_botanic_miner_cont_5.title=5 ɹǝᴉ⟘ ɹǝuᴉW ɔᴉuɐʇoᗺ pᴉoᴧ
+gui.environmentaltech.void_botanic_miner_cont_6.title=9 ɹǝᴉ⟘ ɹǝuᴉW ɔᴉuɐʇoᗺ pᴉoᴧ
+
+tile.environmentaltech.laser_lens.name=suǝꞀ ɹǝsɐꞀ ɹɐǝꞁƆ
+tile.environmentaltech.laser_lens_colored.white.name=suǝꞀ ɹǝsɐꞀ ǝʇᴉɥM
+tile.environmentaltech.laser_lens_colored.orange.name=suǝꞀ ɹǝsɐꞀ ǝᵷuɐɹO
+tile.environmentaltech.laser_lens_colored.magenta.name=suǝꞀ ɹǝsɐꞀ ɐʇuǝᵷɐW
+tile.environmentaltech.laser_lens_colored.light_blue.name=suǝꞀ ɹǝsɐꞀ ǝnꞁᗺ ʇɥᵷᴉꞀ
+tile.environmentaltech.laser_lens_colored.yellow.name=suǝꞀ ɹǝsɐꞀ ʍoꞁꞁǝ⅄
+tile.environmentaltech.laser_lens_colored.lime.name=suǝꞀ ɹǝsɐꞀ ǝɯᴉꞀ
+tile.environmentaltech.laser_lens_colored.pink.name=suǝꞀ ɹǝsɐꞀ ʞuᴉԀ
+tile.environmentaltech.laser_lens_colored.gray.name=suǝꞀ ɹǝsɐꞀ ʎɐɹ⅁
+tile.environmentaltech.laser_lens_colored.silver.name=suǝꞀ ɹǝsɐꞀ ʎɐɹ⅁ ʇɥᵷᴉꞀ
+tile.environmentaltech.laser_lens_colored.cyan.name=suǝꞀ ɹǝsɐꞀ uɐʎƆ
+tile.environmentaltech.laser_lens_colored.purple.name=suǝꞀ ɹǝsɐꞀ ǝꞁdɹnԀ
+tile.environmentaltech.laser_lens_colored.blue.name=suǝꞀ ɹǝsɐꞀ ǝnꞁᗺ
+tile.environmentaltech.laser_lens_colored.brown.name=suǝꞀ ɹǝsɐꞀ uʍoɹᗺ
+tile.environmentaltech.laser_lens_colored.green.name=suǝꞀ ɹǝsɐꞀ uǝǝɹ⅁
+tile.environmentaltech.laser_lens_colored.red.name=suǝꞀ ɹǝsɐꞀ pǝᴚ
+tile.environmentaltech.laser_lens_colored.black.name=suǝꞀ ɹǝsɐꞀ ʞɔɐꞁᗺ
+
+tile.environmentaltech.modifier_null.name=ɹǝᴉɟᴉpoW ꞁꞁnN
+tile.environmentaltech.modifier_speed.name=ɹǝᴉɟᴉpoW pǝǝdS
+tile.environmentaltech.modifier_piezo.name=ɹǝᴉɟᴉpoW ozǝᴉԀ
+tile.environmentaltech.modifier_efficiency.name=ɹǝᴉɟᴉpoW ʎɔuǝᴉɔᴉɟɟƎ
+tile.environmentaltech.modifier_fortune.name=ɹǝᴉɟᴉpoW ǝunʇɹoℲ
+tile.environmentaltech.modifier_silk_touch.name=ɹǝᴉɟᴉpoW ɥɔno⟘ ʞꞁᴉS
+tile.environmentaltech.modifier_accuracy.name=ɹǝᴉɟᴉpoW ʎɔɐɹnɔɔⱯ
+tile.environmentaltech.modifier_flight.name=ɹǝᴉɟᴉpoW ʇɥᵷᴉꞁℲ
+tile.environmentaltech.modifier_night_vision.name=ɹǝᴉɟᴉpoW uoᴉsᴉᴧ ʇɥᵷᴉN
+tile.environmentaltech.modifier_haste.name=ɹǝᴉɟᴉpoW ǝʇsɐH
+tile.environmentaltech.modifier_strength.name=ɹǝᴉɟᴉpoW ɥʇᵷuǝɹʇS
+tile.environmentaltech.modifier_water_breathing.name=ɹǝᴉɟᴉpoW ᵷuᴉɥʇɐǝɹᗺ ɹǝʇɐM
+tile.environmentaltech.modifier_regen.name=ɹǝᴉɟᴉpoW uǝᵷǝᴚ
+tile.environmentaltech.modifier_saturation.name=ɹǝᴉɟᴉpoW uoᴉʇɐɹnʇɐS
+tile.environmentaltech.modifier_resistance.name=ɹǝᴉɟᴉpoW ǝɔuɐʇsᴉsǝᴚ
+tile.environmentaltech.modifier_jump_boost.name=ɹǝᴉɟᴉpoW ʇsooᗺ dɯnՐ
+tile.environmentaltech.modifier_fire_resistance.name=ɹǝᴉɟᴉpoW ǝɔuɐʇsᴉsǝᴚ ǝɹᴉℲ
+
+
+item.environmentaltech.litherite_crystal.name=ꞁɐʇsʎɹƆ ǝʇᴉɹǝɥʇᴉꞀ
+item.environmentaltech.erodium_crystal.name=ꞁɐʇsʎɹƆ ɯnᴉpoɹƎ
+item.environmentaltech.kyronite_crystal.name=ꞁɐʇsʎɹƆ ǝʇᴉuoɹʎʞ
+item.environmentaltech.pladium_crystal.name=ꞁɐʇsʎɹƆ ɯnᴉpɐꞁԀ
+item.environmentaltech.ionite_crystal.name=ꞁɐʇsʎɹƆ ǝʇᴉuoI
+item.environmentaltech.aethium_crystal.name=ꞁɐʇsʎɹƆ ɯnᴉɥʇǝⱯ
+
+item.environmentaltech.photovoltaic_cell.name=ꞁꞁǝƆ ɔᴉɐʇꞁoʌoʇoɥԀ
+item.environmentaltech.connector.name=ɹoʇɔǝuuoƆ
+item.environmentaltech.diode.name=ǝpoᴉᗡ
+
+achievement.environmentaltech.assemble_void_ore_miner_t1=ǝɹO ǝʇᴉuᴉɟuI ꞁǝʌǝꞀ ʎɹʇuƎ
+achievement.environmentaltech.assemble_void_ore_miner_t1.desc=ɹǝꞁqɯǝssⱯ ǝɥʇ ɥʇᴉʍ ɹǝuᴉW ǝɹO pᴉoᴧ ⥝ ɹǝᴉ⟘ ɐ ǝꞁqɯǝssⱯ
+achievement.environmentaltech.assemble_void_ore_miner_t4=dnʇǝS ǝɹO ǝʇᴉuᴉɟuI ǝʇɐɯᴉʇꞁ∩
+achievement.environmentaltech.assemble_void_ore_miner_t4.desc=˙ɹǝꞁqɯǝssⱯ ǝɥʇ ɥʇᴉʍ ɹǝuᴉW ǝɹO pᴉoᴧ ᔭ ɹǝᴉ⟘ ɐ ǝꞁqɯǝssⱯ
+achievement.environmentaltech.assemble_void_res_miner_t1=sǝɔɹnosǝᴚ ǝʇᴉuᴉɟuI ꞁǝʌǝꞀ ʎɹʇuƎ
+achievement.environmentaltech.assemble_void_res_miner_t1.desc=˙ɹǝꞁqɯǝssⱯ ǝɥʇ ɥʇᴉʍ ɹǝuᴉW ǝɔɹnosǝᴚ pᴉoᴧ ⥝ ɹǝᴉ⟘ ɐ ǝꞁqɯǝssⱯ
+achievement.environmentaltech.assemble_void_res_miner_t4=sǝɔɹnosǝᴚ ǝʇᴉuᴉɟuI ǝʇɐɯᴉʇꞁ∩
+achievement.environmentaltech.assemble_void_res_miner_t4.desc=˙ɹǝꞁqɯǝssⱯ ǝɥʇ ɥʇᴉʍ ɹǝuᴉW ǝɔɹnosǝᴚ pᴉoᴧ ᔭ ɹǝᴉ⟘ ɐ ǝꞁqɯǝssⱯ
+achievement.environmentaltech.assemble_solar_array_t1=ʎɐɹɹⱯ ɹɐꞁoS ꞁǝʌǝꞀ ʎɹʇuƎ
+achievement.environmentaltech.assemble_solar_array_t1.desc=˙ɹǝꞁqɯǝssⱯ ǝɥʇ ɥʇᴉʍ ʎɐɹɹⱯ ɹɐꞁoS ⥝ ɹǝᴉ⟘ ɐ ǝꞁqɯǝssⱯ
+achievement.environmentaltech.assemble_solar_array_t4=ʎɐɹɹⱯ ɹɐꞁoS ǝʇɐɯᴉʇꞁ∩
+achievement.environmentaltech.assemble_solar_array_t4.desc=˙ɹǝꞁqɯǝssⱯ ǝɥʇ ɥʇᴉʍ ʎɐɹɹⱯ ɹɐꞁoS ᔭ ɹǝᴉ⟘ ɐ ǝꞁqɯǝssⱯ
+achievement.environmentaltech.assemble_lightning_rod_t1=ᵷuᴉuʇɥᵷᴉꞀ ʎᗺ pǝɹǝʍoԀ
+achievement.environmentaltech.assemble_lightning_rod_t1.desc=˙ɹǝꞁqɯǝssⱯ ǝɥʇ ɥʇᴉʍ poᴚ ᵷuᴉuʇɥᵷᴉꞀ ⥝ ɹǝᴉ⟘ ɐ ǝꞁqɯǝssⱯ
+achievement.environmentaltech.assemble_lightning_rod_t4=ᘔ ᵷuᴉuʇɥᵷᴉꞀ ʎᗺ pǝɹǝʍoԀ
+achievement.environmentaltech.assemble_lightning_rod_t4.desc=˙ɹǝꞁqɯǝssⱯ ǝɥʇ ɥʇᴉʍ poᴚ ᵷuᴉuʇɥᵷᴉꞀ ᔭ ɹǝᴉ⟘ ɐ ǝꞁqɯǝssⱯ
+
+tile.environmentaltech.hardened_stone.normal.name=ǝuoʇS pǝuǝpɹɐH
+tile.environmentaltech.hardened_stone.paver.name=ɹǝʌɐԀ ǝuoʇS pǝuǝpɹɐH
+tile.environmentaltech.hardened_stone.bricks.name=sʞɔᴉɹᗺ ǝuoʇS pǝuǝpɹɐH
+tile.environmentaltech.hardened_stone.tiles.name=sǝꞁᴉ⟘ ǝuoʇS pǝuǝpɹɐH
+tile.environmentaltech.hardened_stone_stairs.name=sɹᴉɐʇS ǝuoʇS pǝuǝpɹɐH
+tile.environmentaltech.hardened_stone_brick_stairs.name=sɹᴉɐʇS ʞɔᴉɹᗺ ǝuoʇS pǝuǝpɹɐH
+tile.environmentaltech.hardened_stone_slab.name=qɐꞁS ǝuoʇS pǝuǝpɹɐH
+tile.environmentaltech.hardened_stone_paver_slab.name=qɐꞁS ɹǝʌɐԀ ǝuoʇS pǝuǝpɹɐH
+tile.environmentaltech.hardened_stone_brick_slab.name=qɐꞁS ʞɔᴉɹᗺ ǝuoʇS pǝuǝpɹɐH
+
+tile.environmentaltech.basalt.normal.name=ʇꞁɐsɐᗺ
+tile.environmentaltech.basalt.bricks.name=sʞɔᴉɹᗺ ʇꞁɐsɐᗺ
+tile.environmentaltech.basalt.paver.name=ɹǝʌɐԀ ʇꞁɐsɐᗺ
+tile.environmentaltech.basalt.tiles.name=sǝꞁᴉ⟘ ʇꞁɐsɐᗺ
+tile.environmentaltech.basalt_stairs.name=sɹᴉɐʇS ʇꞁɐsɐᗺ
+tile.environmentaltech.basalt_brick_stairs.name=sɹᴉɐʇS ʞɔᴉɹᗺ ʇꞁɐsɐᗺ
+tile.environmentaltech.basalt_slab.name=qɐꞁS ʇꞁɐsɐᗺ
+tile.environmentaltech.basalt_paver_slab.name=qɐꞁS ɹǝʌɐԀ ʇꞁɐsɐᗺ
+tile.environmentaltech.basalt_brick_slab.name=qɐꞁS ʞɔᴉɹᗺ ʇꞁɐsɐᗺ
+
+tile.environmentaltech.alabaster.normal.name=ɹǝʇsɐqɐꞁⱯ
+tile.environmentaltech.alabaster.bricks.name=sʞɔᴉɹᗺ ɹǝʇsɐqɐꞁⱯ
+tile.environmentaltech.alabaster.paver.name=ɹǝʌɐԀ ɹǝʇsɐqɐꞁⱯ
+tile.environmentaltech.alabaster.tiles.name=sǝꞁᴉ⟘ ɹǝʇsɐqɐꞁⱯ
+tile.environmentaltech.alabaster_stairs.name=sɹᴉɐʇS ɹǝʇsɐqɐꞁⱯ
+tile.environmentaltech.alabaster_brick_stairs.name=sɹᴉɐʇS ʞɔᴉɹᗺ ɹǝʇsɐqɐꞁⱯ
+tile.environmentaltech.alabaster_slab.name=qɐꞁS ɹǝʇsɐqɐꞁⱯ
+tile.environmentaltech.alabaster_paver_slab.name=qɐꞁS ɹǝʌɐԀ ɹǝʇsɐqɐꞁⱯ
+tile.environmentaltech.alabaster_brick_slab.name=qɐꞁS ʞɔᴉɹᗺ ɹǝʇsɐqɐꞁⱯ
+
+tile.environmentaltech.lonsdaleite.normal.name=ǝʇᴉǝꞁɐpsuoꞀ
+tile.environmentaltech.lonsdaleite.bricks.name=sʞɔᴉɹᗺ ǝʇᴉǝꞁɐpsuoꞀ
+tile.environmentaltech.lonsdaleite.paver.name=ɹǝʌɐԀ ǝʇᴉǝꞁɐpsuoꞀ
+tile.environmentaltech.lonsdaleite.tiles.name=sǝꞁᴉ⟘ ǝʇᴉǝꞁɐpsuoꞀ
+tile.environmentaltech.lonsdaleite_stairs.name=sɹᴉɐʇS ǝʇᴉǝꞁɐpsuoꞀ
+tile.environmentaltech.lonsdaleite_brick_stairs.name=sɹᴉɐʇS ʞɔᴉɹᗺ ǝʇᴉǝꞁɐpsuoꞀ
+tile.environmentaltech.lonsdaleite_slab.name=qɐꞁS ǝʇᴉǝꞁɐpsuoꞀ
+tile.environmentaltech.lonsdaleite_paver_slab.name=qɐꞁS ɹǝʌɐԀ ǝʇᴉǝꞁɐpsuoꞀ
+tile.environmentaltech.lonsdaleite_brick_slab.name=qɐꞁS ʞɔᴉɹᗺ ǝʇᴉǝꞁɐpsuoꞀ
+
+tile.environmentaltech.sand_enriched.name=puɐS pǝɥɔᴉɹuƎ
+tile.environmentaltech.glass_clear.name=ssɐꞁ⅁ ɹɐǝꞁƆ
+
+
+gui.environmentaltech.multiblockassembler.info.needed.title=:pǝɹᴉnbǝᴚ sʞɔoꞁᗺ
+gui.environmentaltech.multiblockassembler.info.information.title=:uoᴉʇɐɯɹoɟuI
+gui.environmentaltech.tier=ɹǝᴉ⟘
+gui.environmentaltech.gens=sǝʇɐɹǝuǝ⅁
+gui.environmentaltech.costs=sʇsoƆ
+gui.environmentaltech.rft=ʇ/Ⅎᴚ
+gui.environmentaltech.lightning_strick=ǝʞᴉɹʇS ᵷuᴉuʇɥᵷᴉꞀ ɹǝd
+gui.environmentaltech.per_cycle=ǝꞁɔʎɔ ɹǝd
+gui.environmentaltech.structureblock=ɹǝᴉ⟘ ʞɔoꞁᗺ ǝɹnʇɔnɹʇS
+gui.environmentaltech.machinebase=ǝsɐᗺ ǝuᴉɥɔɐW
+gui.environmentaltech.modifiercore=uoᴉsɹǝʌ pǝpɐɹᵷdn ʎuɐ ɹo ǝɹoƆ ɹǝᴉɟᴉpoW
+gui.environmentaltech.orabove=ǝʌoqⱯ ɹO
+gui.environmentaltech.uses=sǝs∩
+gui.environmentaltech.permine=ǝuᴉW ɹǝԀ
+gui.environmentaltech.withoutmodifiers=sɹǝᴉɟᴉpoW ǝɹoɟǝᗺ
+gui.environmentaltech.laserlens=ʇuɐᴉɹɐʌ pǝɹoꞁoƆ ʎuɐ ɹo suǝꞀ ɹǝsɐꞀ ɹɐǝꞁƆ
+gui.environmentaltech.solar_gen.title=ꞁǝuɐԀ ɹɐꞁoS
+gui.environmentaltech.solar_gen.info.common= ˙ʎʞs ǝɥʇ ǝǝs oʇ ǝꞁqɐ ǝq ʇsnɯ ꞁꞁǝɔ ɹɐꞁos ʎɹǝʌƎ
+gui.environmentaltech.solar_gen.info.common2=˙ɥᵷnoɹɥʇ ʇɥᵷᴉꞁuns ʍoꞁꞁɐ ʇsnɯ ǝʌoqɐ ʞɔoꞁq ʎuⱯ
+gui.environmentaltech.lightning_gen.title=poᴚ ᵷuᴉuʇɥᵷᴉꞀ
+gui.environmentaltech.lightning_gen.info.common=˙ʎʞs ǝǝs oʇ ǝꞁqɐ ǝq ʇsnɯ poɹ ᵷuᴉuʇɥᵷᴉꞁ ɟo dᴉ⟘
+gui.environmentaltech.voidresminer.title=ɹǝuᴉW ǝɔɹnosǝᴚ pᴉoᴧ
+gui.environmentaltech.voidoreminer.title=ɹǝuᴉW ǝɹO pᴉoᴧ
+gui.environmentaltech.voidminer.title=ɹǝuᴉW pᴉoᴧ
+gui.environmentaltech.voidminer.info.common=˙ʞɔoɹpǝq ǝǝs ʇsnɯ ǝɹoƆ ɹǝsɐꞀ ɯoʇʇoq ǝɥ⟘
+gui.environmentaltech.voidminer.info.common2=˙ɥᵷnoɹɥʇ ʇɥᵷᴉꞁ ʇǝꞁ ʇsnɯ ǝɹoƆ ɹǝsɐꞀ ʍoꞁǝq ʞɔoꞁq ʎuⱯ
+gui.environmentaltech.voidminer.info.common3=˙sǝɔɹnosǝɹ ʇuǝɹǝɟɟᴉp ʇǝᵷɹɐʇ oʇ pǝɹoꞁoɔ ǝq uɐɔ suǝꞀ ǝɥ⟘
+gui.environmentaltech.voidminer.info.common4=sǝɹoƆ ɹǝᴉɟᴉpoW ɟo ǝɔɐꞁd uᴉ ɹǝᴉɟᴉpoW ʎuɐ ǝsn uɐɔ no⅄
+
+gui.environmentaltech.launcher.title=ɹǝɥɔunɐꞀ
+gui.environmentaltech.launcher.xforce=ǝɔɹoℲ X
+gui.environmentaltech.launcher.yforce=ǝɔɹoℲ ⅄
+gui.environmentaltech.launcher.zforce=ǝɔɹoℲ Z
+gui.environmentaltech.velocity=ʎʇᴉɔoꞁǝᴧ
+gui.environmentaltech.add=ppⱯ
+gui.environmentaltech.set=ʇǝS
+gui.environmentaltech.true=ǝnɹ⟘
+gui.environmentaltech.false=ǝsꞁɐℲ
+gui.environmentaltech.mbcomplete=ǝʇǝꞁdɯoƆ ʎꞁqɯǝssⱯ ʞɔoꞁqᴉʇꞁnW
+
+gui.environmentaltech.voidresminer=ɹǝuᴉW ǝɔɹnosǝᴚ pᴉoᴧ
+gui.environmentaltech.voidoreminer=ɹǝuᴉW ǝɹO pᴉoᴧ
+gui.environmentaltech.lens=suǝꞀ
+gui.environmentaltech.default=ʇꞁnɐɟǝᗡ
+gui.environmentaltech.clear=ɹɐǝꞁƆ
+gui.environmentaltech.pref=pǝɹɹǝɟǝɹԀ
+gui.environmentaltech.nolens=suǝꞀ oN
+gui.environmentaltech.chance=ǝɔuɐɥƆ ǝuᴉW
+gui.environmentaltech.blocklist=ʇsᴉꞀ ʞɔoꞁᗺ
+gui.environmentaltech.enjoymod=¿poW ʎoɾuƎ
+gui.environmentaltech.considerdonating=ᵷuᴉʇɐuoᗡ ɹǝpᴉsuoƆ
+gui.environmentaltech.followontwitter=ɹǝʇʇᴉʍ⟘ uo ʍoꞁꞁoℲ
+gui.environmentaltech.bugreport=ᵷnᗺ ɐ ʇɹodǝᴚ
+gui.environmentaltech.visitoncurse=ǝᵷɐԀ ǝsɹnƆ ǝɥʇ ʇᴉsᴉᴧ
+
+tile.environmentaltech.controller_lightning_1.name=⥝ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ poᴚ ᵷuᴉuʇɥᵷᴉꞀ
+tile.environmentaltech.controller_lightning_2.name=ᘔ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ poᴚ ᵷuᴉuʇɥᵷᴉꞀ
+tile.environmentaltech.controller_lightning_3.name=Ɛ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ poᴚ ᵷuᴉuʇɥᵷᴉꞀ
+tile.environmentaltech.controller_lightning_4.name=ᔭ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ poᴚ ᵷuᴉuʇɥᵷᴉꞀ
+tile.environmentaltech.controller_nano_bot_beacon_1.name=⥝ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ uoɔɐǝᗺ ʇoᗺ ouɐN
+tile.environmentaltech.controller_nano_bot_beacon_2.name=ᘔ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ uoɔɐǝᗺ ʇoᗺ ouɐN
+tile.environmentaltech.controller_nano_bot_beacon_3.name=Ɛ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ uoɔɐǝᗺ ʇoᗺ ouɐN
+tile.environmentaltech.controller_nano_bot_beacon_4.name=ᔭ ɹǝᴉ⟘ ɹǝꞁꞁoɹʇuoƆ uoɔɐǝᗺ ʇoᗺ ouɐN
+
+tile.environmentaltech.solar_1.name=ꞁꞁǝƆ ɹɐꞁoS
+tile.environmentaltech.lightning_rod.name=poᴚ ᵷuᴉuʇɥᵷᴉꞀ
+tile.environmentaltech.lightning_rod_insulated.name=poᴚ ᵷuᴉuʇɥᵷᴉꞀ pǝʇɐꞁnsuI
+tile.environmentaltech.laser_core.name=ǝɹoƆ ɹǝsɐꞀ
+tile.environmentaltech.lens.name=suǝꞀ ɹɐǝꞁƆ
+tile.environmentaltech.lens_colored.white.name=suǝꞀ ǝʇᴉɥM
+tile.environmentaltech.lens_colored.orange.name=suǝꞀ ǝᵷuɐɹO
+tile.environmentaltech.lens_colored.magenta.name=suǝꞀ ɐʇuǝᵷɐW
+tile.environmentaltech.lens_colored.light_blue.name=suǝꞀ ǝnꞁᗺ ʇɥᵷᴉꞀ
+tile.environmentaltech.lens_colored.yellow.name=suǝꞀ ʍoꞁꞁǝ⅄
+tile.environmentaltech.lens_colored.lime.name=suǝꞀ ǝɯᴉꞀ
+tile.environmentaltech.lens_colored.pink.name=suǝꞀ ʞuᴉԀ
+tile.environmentaltech.lens_colored.gray.name=suǝꞀ ʎɐɹ⅁
+tile.environmentaltech.lens_colored.silver.name=suǝꞀ ʎɐɹ⅁ ʇɥᵷᴉꞀ
+tile.environmentaltech.lens_colored.cyan.name=suǝꞀ uɐʎƆ
+tile.environmentaltech.lens_colored.purple.name=suǝꞀ ǝꞁdɹnԀ
+tile.environmentaltech.lens_colored.blue.name=suǝꞀ ǝnꞁᗺ
+tile.environmentaltech.lens_colored.brown.name=suǝꞀ uʍoɹᗺ
+tile.environmentaltech.lens_colored.green.name=suǝꞀ uǝǝɹ⅁
+tile.environmentaltech.lens_colored.red.name=suǝꞀ pǝᴚ
+tile.environmentaltech.lens_colored.black.name=suǝꞀ ʞɔɐꞁᗺ
+
+item.environmentaltech.lonsdaleite_shard.name=pɹɐɥS ǝʇᴉǝꞁɐpsuoꞀ

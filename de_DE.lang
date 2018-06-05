@@ -249,7 +249,7 @@ tile.environmentaltech.lonsdaleite_paver_slab.name=Lonsdaleite Blockstufe
 tile.environmentaltech.lonsdaleite_brick_slab.name=Lonsdaleite Ziegelsteinstufe
 
 tile.environmentaltech.sand_enriched.name=Angereichter Sand
-tile.environmentaltech.glass_clear.name=Reinesglas
+tile.environmentaltech.glass_clear.name=Reines Glas
 
 
 gui.environmentaltech.multiblockassembler.info.needed.title=Benötigte Blöcke:
@@ -260,7 +260,7 @@ gui.environmentaltech.costs=Kostet
 gui.environmentaltech.rft=RF/t
 gui.environmentaltech.lightning_strick=pro Blitzeinschlag
 gui.environmentaltech.per_cycle=pro umdrehung
-gui.environmentaltech.structureblock=Strukturblock Stufe
+gui.environmentaltech.structureblock=Strukturrahmen Stufe
 gui.environmentaltech.machinebase=Machinenbasis
 gui.environmentaltech.modifiercore=Modifiziererkern oder irgendeine andere verbesserung
 gui.environmentaltech.orabove=oder höher

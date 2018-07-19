@@ -13,7 +13,7 @@ BUG: + General Name/Description of bug
 ValkyrieLib Version: 
 Environmental Tech Version: 
 Description of bug: 
-Modpack Name: 
+(If Applicable)Modpack Name: 
 How to reproduce bug: 
 ```
 

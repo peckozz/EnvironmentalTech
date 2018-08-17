@@ -1,0 +1,345 @@
+﻿
+itemgroup.environmentaltech.et_resources=자연 기술(자원)
+itemGroup.environmentaltech.et_resources=자연 기술(자원)
+
+itemgroup.environmentaltech.et_controllers=자연 기술(제어기)
+itemGroup.environmentaltech.et_controllers=자연 기술(제어기)
+
+itemgroup.environmentaltech.et_multiblock_components=자연 기술(재료)
+itemGroup.environmentaltech.et_multiblock_components=자연 기술(재료)
+
+itemgroup.environmentaltech.et_other=자연 기술(기타)
+itemGroup.environmentaltech.et_other=자연 기술(기타)
+
+tile.environmentaltech.litherite.name=리더라이트
+tile.environmentaltech.litherite.name=리더라이트
+tile.environmentaltech.litherite_paver.name=포장용 리더라이트
+tile.environmentaltech.litherite_bricks.name=리더라이트 벽돌
+tile.environmentaltech.litherite_tiles.name=리더라이트 타일
+tile.environmentaltech.litherite_stairs.name=리더라이트 계단
+tile.environmentaltech.litherite_brick_stairs.name=리더라이트 벽돌 계단
+tile.environmentaltech.litherite_tile_stairs.name=리더라이트 타일 계단
+tile.environmentaltech.litherite_slab.name=리더라이트 반 블록
+tile.environmentaltech.litherite_paver_slab.name=포장용 리더라이트 반 블록
+tile.environmentaltech.litherite_brick_slab.name=리더라이트 벽돌 반 블록
+tile.environmentaltech.litherite_tile_slab.name=리더라이트 타일 반 블록
+
+
+tile.environmentaltech.erodium.name=에로듐
+tile.environmentaltech.erodium_paver.name=포장용 에로듐
+tile.environmentaltech.erodium_bricks.name=에로듐 벽돌
+tile.environmentaltech.erodium_tiles.name=에로듐 타일
+tile.environmentaltech.erodium_stairs.name=에로듐 계단
+tile.environmentaltech.erodium_brick_stairs.name=에로듐 벽돌 계단
+tile.environmentaltech.erodium_tile_stairs.name=에로듐 타일 계단
+tile.environmentaltech.erodium_slab.name=에로듐 반 블록
+tile.environmentaltech.erodium_paver_slab.name=포장용 에로듐 반 블록
+tile.environmentaltech.erodium_brick_slab.name=에로듐 벽돌 반 블록
+tile.environmentaltech.erodium_tile_slab.name=에로듐 타일 반 블록
+
+tile.environmentaltech.kyronite.name=크로나이트
+tile.environmentaltech.kyronite_paver.name=포장용 크로나이트
+tile.environmentaltech.kyronite_bricks.name=크로나이트 벽돌
+tile.environmentaltech.kyronite_tiles.name=크로나이트 타일
+tile.environmentaltech.kyronite_stairs.name=크로나이트 계단
+tile.environmentaltech.kyronite_brick_stairs.name=크로나이트 벽돌 계단
+tile.environmentaltech.kyronite_tile_stairs.name=크로나이트 타일 계단
+tile.environmentaltech.kyronite_slab.name=크로나이트 반 블록
+tile.environmentaltech.kyronite_paver_slab.name=포장용 크로나이트 반 블록
+tile.environmentaltech.kyronite_brick_slab.name=크로나이트 벽돌 반 블록
+tile.environmentaltech.kyronite_tile_slab.name=크로나이트 타일 반 블록
+
+tile.environmentaltech.pladium.name=플라듐
+tile.environmentaltech.pladium_paver.name=포장용 플라듐
+tile.environmentaltech.pladium_bricks.name=플라듐 벽돌
+tile.environmentaltech.pladium_tiles.name=플라듐 타일
+tile.environmentaltech.pladium_stairs.name=플라듐 계단
+tile.environmentaltech.pladium_brick_stairs.name=플라듐 벽돌 계단
+tile.environmentaltech.pladium_tile_stairs.name=플라듐 타일 계단
+tile.environmentaltech.pladium_slab.name=플라듐 반 블록
+tile.environmentaltech.pladium_paver_slab.name=포장용 플라듐 반 블록
+tile.environmentaltech.pladium_brick_slab.name=플라듐 벽돌 반 블록
+tile.environmentaltech.pladium_tile_slab.name=플라듐 타일 반 블록
+
+tile.environmentaltech.ionite.name=이오나이트
+tile.environmentaltech.ionite_paver.name=포장용 이오나이트
+tile.environmentaltech.ionite_bricks.name=이오나이트 벽돌
+tile.environmentaltech.ionite_tiles.name=이오나이트 타일
+tile.environmentaltech.ionite_stairs.name=이오나이트 계단
+tile.environmentaltech.ionite_brick_stairs.name=이오나이트 벽돌 계단
+tile.environmentaltech.ionite_tile_stairs.name=이오나이트 타일 계단
+tile.environmentaltech.ionite_slab.name=이오나이트 반 블록
+tile.environmentaltech.ionite_paver_slab.name=포장용 이오나이트 반 블록
+tile.environmentaltech.ionite_brick_slab.name=이오나이트 벽돌 반 블록
+tile.environmentaltech.ionite_tile_slab.name=이오나이트 타일 반 블록
+
+tile.environmentaltech.aethium.name=애튬
+tile.environmentaltech.aethium_paver.name=포장용 애튬
+tile.environmentaltech.aethium_bricks.name=애튬 벽돌
+tile.environmentaltech.aethium_tiles.name=애튬 타일
+tile.environmentaltech.aethium_stairs.name=애튬 계단
+tile.environmentaltech.aethium_brick_stairs.name=애튬 벽돌 계단
+tile.environmentaltech.aethium_tile_stairs.name=애튬 타일 계단
+tile.environmentaltech.aethium_slab.name=애튬 반 블록
+tile.environmentaltech.aethium_paver_slab.name=포장용 애튬 반 블록
+tile.environmentaltech.aethium_brick_slab.name=애튬 벽돌 반 블록
+tile.environmentaltech.aethium_tile_slab.name=애튬 타일 반 블록
+
+tile.environmentaltech.lonsdaleite.name=론스데일라이트
+tile.environmentaltech.lonsdaleite_bricks.name=론스데일라이트 벽돌
+tile.environmentaltech.lonsdaleite_paver.name=포장용 론스데일라이트
+tile.environmentaltech.lonsdaleite_tiles.name=론스데일라이트 타일
+tile.environmentaltech.lonsdaleite_stairs.name=론스데일라이트 계단
+tile.environmentaltech.lonsdaleite_brick_stairs.name=론스데일라이트 벽돌 계단
+tile.environmentaltech.lonsdaleite_tile_stairs.name=론스데일라이트 타일 계단
+tile.environmentaltech.lonsdaleite_slab.name=론스데일라이트 반 블록
+tile.environmentaltech.lonsdaleite_paver_slab.name=포장용 론스데일라이트 반 블록
+tile.environmentaltech.lonsdaleite_brick_slab.name=론스데일라이트 벽돌 반 블록
+tile.environmentaltech.lonsdaleite_tile_slab.name=론스데일라이트 타일 반 블록
+
+tile.environmentaltech.mica.name=미카
+tile.environmentaltech.interconnect.name=상호접속
+
+tile.environmentaltech.structure_frame_1.name=1티어 구조틀
+tile.environmentaltech.structure_frame_2.name=2티어 구조틀
+tile.environmentaltech.structure_frame_3.name=3티어 구조틀
+tile.environmentaltech.structure_frame_4.name=4티어 구조틀
+tile.environmentaltech.structure_frame_5.name=5티어 구조틀
+tile.environmentaltech.structure_frame_6.name=6티어 구조틀
+
+tile.environmentaltech.structure_panel.name=구조판
+tile.environmentaltech.structure_panel_clear.name=깨끗한 구조판
+
+tile.environmentaltech.solar_cell_litherite.name=리더나이트 솔라 셀
+tile.environmentaltech.solar_cell_erodium.name=에로듐 솔라 셀
+tile.environmentaltech.solar_cell_kyronite.name=크로나이트 솔라 셀
+tile.environmentaltech.solar_cell_pladium.name=플라듐 솔라 셀
+tile.environmentaltech.solar_cell_ionite.name=이오나이트 솔라 셀
+tile.environmentaltech.solar_cell_aethium.name=애슘 솔라 셀
+
+tile.environmentaltech.solar_cont_1.name=1티어 태양광 어레이 제어기
+tile.environmentaltech.solar_cont_2.name=2티어 태양광 어레이 제어기
+tile.environmentaltech.solar_cont_3.name=3티어 태양광 어레이 제어기
+tile.environmentaltech.solar_cont_4.name=4티어 태양광 어레이 제어기
+tile.environmentaltech.solar_cont_5.name=5티어 태양광 어레이 제어기
+tile.environmentaltech.solar_cont_6.name=6티어 태양광 어레이 제어기
+gui.environmentaltech.solar_cont_1.title=1티어 태양광 어레이
+gui.environmentaltech.solar_cont_2.title=2티어 태양광 어레이
+gui.environmentaltech.solar_cont_3.title=3티어 태양광 어레이
+gui.environmentaltech.solar_cont_4.title=4티어 태양광 어레이
+gui.environmentaltech.solar_cont_5.title=5티어 태양광 어레이
+gui.environmentaltech.solar_cont_6.title=6티어 태양광 어레이
+
+tile.environmentaltech.void_ore_miner_cont_1.name=1티어 공동 광석 채굴기 제어기
+tile.environmentaltech.void_ore_miner_cont_2.name=2티어 공동 광석 채굴기 제어기
+tile.environmentaltech.void_ore_miner_cont_3.name=3티어 공동 광석 채굴기 제어기
+tile.environmentaltech.void_ore_miner_cont_4.name=4티어 공동 광석 채굴기 제어기
+tile.environmentaltech.void_ore_miner_cont_5.name=5티어 공동 광석 채굴기 제어기
+tile.environmentaltech.void_ore_miner_cont_6.name=6티어 공동 광석 채굴기 제어기
+gui.environmentaltech.void_ore_miner_cont_1.title=1티어 공동 광석 채굴기
+gui.environmentaltech.void_ore_miner_cont_2.title=2티어 공동 광석 채굴기
+gui.environmentaltech.void_ore_miner_cont_3.title=3티어 공동 광석 채굴기
+gui.environmentaltech.void_ore_miner_cont_4.title=4티어 공동 광석 채굴기
+gui.environmentaltech.void_ore_miner_cont_5.title=5티어 공동 광석 채굴기
+gui.environmentaltech.void_ore_miner_cont_6.title=6티어 공동 광석 채굴기
+
+tile.environmentaltech.void_res_miner_cont_1.name=1티어 공동 자원 채굴기 제어기
+tile.environmentaltech.void_res_miner_cont_2.name=2티어 공동 자원 채굴기 제어기
+tile.environmentaltech.void_res_miner_cont_3.name=3티어 공동 자원 채굴기 제어기
+tile.environmentaltech.void_res_miner_cont_4.name=4티어 공동 자원 채굴기 제어기
+tile.environmentaltech.void_res_miner_cont_5.name=5티어 공동 자원 채굴기 제어기
+tile.environmentaltech.void_res_miner_cont_6.name=6티어 공동 자원 채굴기 제어기
+gui.environmentaltech.void_res_miner_cont_1.title=1티어 공동 자원 채굴기
+gui.environmentaltech.void_res_miner_cont_2.title=2티어 공동 자원 채굴기
+gui.environmentaltech.void_res_miner_cont_3.title=3티어 공동 자원 채굴기
+gui.environmentaltech.void_res_miner_cont_4.title=4티어 공동 자원 채굴기
+gui.environmentaltech.void_res_miner_cont_5.title=5티어 공동 자원 채굴기
+gui.environmentaltech.void_res_miner_cont_6.title=6티어 공동 자원 채굴기
+
+tile.environmentaltech.void_botanic_miner_cont_1.name=1티어 공동 식물 채굴기 제어기
+tile.environmentaltech.void_botanic_miner_cont_2.name=2티어 공동 식물 채굴기 제어기
+tile.environmentaltech.void_botanic_miner_cont_3.name=3티어 공동 식물 채굴기 제어기
+tile.environmentaltech.void_botanic_miner_cont_4.name=4티어 공동 식물 채굴기 제어기
+tile.environmentaltech.void_botanic_miner_cont_5.name=5티어 공동 식물 채굴기 제어기
+tile.environmentaltech.void_botanic_miner_cont_6.name=6티어 공동 식물 채굴기 제어기
+gui.environmentaltech.void_botanic_miner_cont_1.title=1티어 공동 식물 채굴기
+gui.environmentaltech.void_botanic_miner_cont_2.title=2티어 공동 식물 채굴기
+gui.environmentaltech.void_botanic_miner_cont_3.title=3티어 공동 식물 채굴기
+gui.environmentaltech.void_botanic_miner_cont_4.title=4티어 공동 식물 채굴기
+gui.environmentaltech.void_botanic_miner_cont_5.title=5티어 공동 식물 채굴기
+gui.environmentaltech.void_botanic_miner_cont_6.title=6티어 공동 식물 채굴기
+
+tile.environmentaltech.lightning_cont_1.name=1티어 피뢰침 제어기
+tile.environmentaltech.lightning_cont_2.name=2티어 피뢰침 제어기
+tile.environmentaltech.lightning_cont_3.name=3티어 피뢰침 제어기
+tile.environmentaltech.lightning_cont_4.name=4티어 피뢰침 제어기
+tile.environmentaltech.lightning_cont_5.name=5티어 피뢰침 제어기
+tile.environmentaltech.lightning_cont_6.name=6티어 피뢰침 제어기
+gui.environmentaltech.lightning_cont_1.name=1티어 피뢰침
+gui.environmentaltech.lightning_cont_2.name=2티어 피뢰침
+gui.environmentaltech.lightning_cont_3.name=3티어 피뢰침
+gui.environmentaltech.lightning_cont_4.name=4티어 피뢰침
+gui.environmentaltech.lightning_cont_5.name=5티어 피뢰침
+gui.environmentaltech.lightning_cont_6.name=6티어 피뢰침
+
+tile.environmentaltech.nano_cont_personal_1.name=1티어 개인용 나노 봇 신호등
+tile.environmentaltech.nano_cont_personal_2.name=2티어 개인용 나노 봇 신호등
+tile.environmentaltech.nano_cont_personal_3.name=3티어 개인용 나노 봇 신호등
+tile.environmentaltech.nano_cont_personal_4.name=4티어 개인용 나노 봇 신호등
+tile.environmentaltech.nano_cont_personal_5.name=5티어 개인용 나노 봇 신호등
+tile.environmentaltech.nano_cont_personal_6.name=6티어 개인용 나노 봇 신호등
+
+tile.environmentaltech.laser_core.name=레이저 코어
+tile.environmentaltech.laser_lens.name=깨끗한 레이저 렌즈
+tile.environmentaltech.laser_lens_crystal.name=수정 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.white.name=흰색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.orange.name=주황색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.magenta.name=자홍색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.light_blue.name=하늘색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.yellow.name=노란색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.lime.name=연두색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.pink.name=분홍색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.gray.name=회색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.silver.name=밝은 회색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.cyan.name=청록색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.purple.name=보라색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.blue.name=파란색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.brown.name=갈색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.green.name=초록색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.red.name=빨간색 레이저 렌즈
+tile.environmentaltech.laser_lens_colored.black.name=검은색 레이저 렌즈
+
+tile.environmentaltech.thermal_cell.name=열 셀
+
+tile.environmentaltech.lightning_rod.name=조명등
+tile.environmentaltech.lightning_rod_insulated.name=절연된 조명등
+
+tile.environmentaltech.modifier_null.name=빈 수정기
+tile.environmentaltech.modifier_creative_flight.name=크리에이티브 비행 수정기
+tile.environmentaltech.modifier_speed.name=신속 수정기
+tile.environmentaltech.modifier_piezo.name=압력 수정기
+tile.environmentaltech.modifier_efficiency.name=효율 수정기
+tile.environmentaltech.modifier_fortune.name=행운 수정기
+tile.environmentaltech.modifier_silk_touch.name=섬세한 손길 수정기
+tile.environmentaltech.modifier_accuracy.name=정확도 수정기
+tile.environmentaltech.modifier_flight.name=비행기 수정기
+tile.environmentaltech.modifier_night_vision.name=야간 투시 수정기
+tile.environmentaltech.modifier_haste.name=성급함 수정기
+tile.environmentaltech.modifier_strength.name=힘 수정기
+tile.environmentaltech.modifier_water_breathing.name=수중 호흡 수정기
+tile.environmentaltech.modifier_regeneration.name=회복 수정기
+tile.environmentaltech.modifier_saturation.name=포화 수정기
+tile.environmentaltech.modifier_resistance.name=저항 수정기
+tile.environmentaltech.modifier_jump_boost.name=점프 강화 수정기
+tile.environmentaltech.modifier_fire_resistance.name=화염 저항 수정기
+tile.environmentaltech.modifier_invisibility.name=투명화 수정기
+tile.environmentaltech.modifier_health_boost.name=체력 증진 수정기
+tile.environmentaltech.modifier_absorption.name=흡수 수정기
+tile.environmentaltech.modifier_glowing.name=발광 수정기
+tile.environmentaltech.modifier_luck.name=행운 수정기
+
+
+item.environmentaltech.litherite_crystal.name=리더라이트 수정
+item.environmentaltech.erodium_crystal.name=에로듐 수정
+item.environmentaltech.kyronite_crystal.name=크로나이트 수정
+item.environmentaltech.pladium_crystal.name=플라듐 수정
+item.environmentaltech.ionite_crystal.name=이오나이트 수정
+item.environmentaltech.aethium_crystal.name=애튬 수정
+item.environmentaltech.lonsdaleite_crystal.name=론스데일라이트 수정
+
+item.environmentaltech.photovoltaic_cell.name=광전지
+item.environmentaltech.connector.name=연결기
+item.environmentaltech.diode.name=다이오드
+item.environmentaltech.tool_multiblock_assembler.name=조립기
+gui.environmentaltech.mbcomplete=멀티블록 결합 완료
+
+
+gui.environmentaltech.lens=렌즈
+gui.environmentaltech.clear=클리어
+gui.environmentaltech.pref=적절
+gui.environmentaltech.orabove=또는 평소
+
+gui.environmentaltech.multiblockassembler.info.needed.title=요구된 블록
+gui.environmentaltech.structureblock=구조틀 티어
+gui.environmentaltech.laserlens=레이저 렌즈의 종류
+gui.environmentaltech.nexttier=다음 티어에 요구된 블록
+
+guide.environmentaltech.comingsoon=Coming Soon
+guide.environmentaltech.generic.howtouse=사용법
+guide.environmentaltech.generic.description=상세 설명
+guide.environmentaltech.generic.tier1=1티어
+guide.environmentaltech.generic.tier2=2티어
+guide.environmentaltech.generic.tier3=3티어
+guide.environmentaltech.generic.tier4=4티어
+guide.environmentaltech.generic.tier5=5티어
+guide.environmentaltech.generic.tier6=6티어
+guide.environmentaltech.generic.blockreq=블록 요구물
+guide.environmentaltech.generic.energy=에너지
+guide.environmentaltech.generic.item=아이템
+guide.environmentaltech.generic.fluid=유체
+guide.environmentaltech.generic.outputdirections=출력 방향
+guide.environmentaltech.generic.commonreq=공통 요구물
+guide.environmentaltech.generic.multiblockposition=멀티블록 역할
+guide.environmentaltech.generic.belowcont=하부 제어기
+guide.environmentaltech.generic.abovecont=상부 제어기
+guide.environmentaltech.generic.horizcont=제어기 나침반 방향
+guide.environmentaltech.generic.spacereq=공간 요구물
+guide.environmentaltech.generic.modslots=수정기 슬롯
+guide.environmentaltech.generic.specifications=사양
+guide.environmentaltech.generic.minduration=최소 지속
+guide.environmentaltech.generic.maxduration=최대 지속
+guide.environmentaltech.generic.duration=지속
+guide.environmentaltech.generic.durationrange=지속 범위
+guide.environmentaltech.generic.randomrange=임의 범위
+guide.environmentaltech.generic.between=사이
+guide.environmentaltech.generic.rf=RF
+guide.environmentaltech.generic.minrfgen=최소 RF 발전
+guide.environmentaltech.generic.maxrfgen=최대 RF 발전
+guide.environmentaltech.generic.rfgenrange=RF 발전 범위
+guide.environmentaltech.generic.during=동안
+guide.environmentaltech.generic.while=동안
+guide.environmentaltech.generic.thundering=천둥
+guide.environmentaltech.generic.other=기타
+guide.environmentaltech.generic.weather=날씨
+guide.environmentaltech.generic.sunny=맑음
+guide.environmentaltech.generic.rainy=흐림
+
+guide.environmentaltech.tiered_crystals.page.title=환경 수정
+guide.environmentaltech.tiered_crystals.button.title=티어 수정
+guide.environmentaltech.tiered_crystals.page.text.crystals=수정
+guide.environmentaltech.tiered_crystals.page.text.blocks=수정 블록
+guide.environmentaltech.tiered_crystals.page.text.stairs=수정 계단
+guide.environmentaltech.tiered_crystals.page.text.slabs=수정 반 블록
+guide.environmentaltech.tiered_crystals.page.text.litherite=리더라이트
+
+guide.environmentaltech.assembler.page.title=조립 기계
+guide.environmentaltech.assembler.button.title=조립기
+guide.environmentaltech.assembler.page.text.description=조립기는 자연 기술에서 제공하는 멀티블록 기계 조립의 기본 도구입니다. 인벤토리에 올바른 블록이 있으면 멀티블록 기계가 자동으로 조립됩니다.
+
+guide.environmentaltech.assembler.page.use1=1. 멀티블록 조립을 위해 제어기를 들거나 우클릭하세요.
+guide.environmentaltech.assembler.page.use2=2. 서바이벌 모드에서는 멀티블록 블록을 Shift + 우클릭으로 부수세요.
+guide.environmentaltech.assembler.page.use3=3. 크리에이티브 모드에서는 멀티블록을 Shift + 우클릭으로 부수세요.
+guide.environmentaltech.assembler.page.use4=4. 멀티블록에 요구된 블록을 보고 싶으면 제어기를 좌클릭하세요.
+
+
+guide.environmentaltech.structure_blocks.page.title=멀티블록 구조 블록
+guide.environmentaltech.structure_blocks.button.title=구조 블록
+
+
+guide.environmentaltech.lightning_rods.page.title=조명등
+guide.environmentaltech.lightning_rods.button.title=조명등
+guide.environmentaltech.lightning_rods.page.text.description=피뢰침은 여러분이 번개의 힘을 이용할 수 있게 해줍니다! 번개가 피뢰침에 부딪히면 큰 에너지 폭발이 일어납니다.
+guide.environmentaltech.lightning_rods.page.title.t1=1티어 피뢰침
+guide.environmentaltech.lightning_rods.page.title.t2=2티어 피뢰침
+guide.environmentaltech.lightning_rods.page.title.t3=3티어 피뢰침
+guide.environmentaltech.lightning_rods.page.title.t4=4티어 피뢰침
+guide.environmentaltech.lightning_rods.page.title.t5=5티어 피뢰침
+guide.environmentaltech.lightning_rods.page.title.t6=6티어 피뢰침
+guide.environmentaltech.lightning_rods.page.text.minenergystrike=스트라이크 당 최소 RF
+guide.environmentaltech.lightning_rods.page.text.maxenergystrike=스트라이크 당 최대 RF
+guide.environmentaltech.lightning_rods.page.title.strikechance=스트라이크 기회
+guide.environmentaltech.lightning_rods.page.title.strikechance=스트라이크 기회
+
+guide.environmentaltech.solar_arrays.page.title=태양광 어레이
+guide.environmentaltech.solar_arrays.button.title=태양광 
+
